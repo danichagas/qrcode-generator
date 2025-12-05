@@ -80,11 +80,6 @@ AWS_BUCKET_NAME=your_bucket_name
 2. Update the `AWS_BUCKET_NAME` in your `.env` file or Docker run command
 3. Ensure your AWS credentials have appropriate permissions to access the S3 bucket
 
-## Application Flow
-
-> **Note**: This diagram was built on [Mermaid Online Editor](https://www.mermaidchart.com/app/projects/d95a6b85-4fcc-442f-827b-da6d7a456612/diagrams/f54eab59-6c0f-42d4-86ab-1afa9cee30ce/version/v0.1/edit).
-
-<img src="./.github/diagram.svg"/>
 
 ## API Endpoints
 
